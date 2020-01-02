@@ -1,1 +1,1 @@
-DevOps BinarySearch using Github and Jenkins
+DevOps Project BinarySearch using Github and Jenkins
